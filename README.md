@@ -1,14 +1,14 @@
 # Learning what factors lead sales(Item_Outlet_Sales)
 Athor: Nanping Li
 
-Business Problem:
+#Business Problem:
 What facotors affect item sales?
 
-Data:
+#Data:
 First I see pairplot chart all numeric factors have no obvious linear effect with sales(Item_Outlet_Sales)
 So Decesion tree have better performance in this project.
 
-Results:
+#Results:
 A unit increase on the Item_MRP is associated with a increase with a increase of 800 Item_Outlet_Sales.
 Other numeric value have little or negtive effect with 800 Item_Outlet_Sales.
 
@@ -25,11 +25,11 @@ its own distribution percentage.
 
 
 
-Model:
+#Model:
 My final model is decesion tree.
 We can split node on Item_Type to see specific value in different food types
 
-Recommendations:
+#Recommendations:
 According to the Item_Type and sales(Item_Outlet_Sales), factory pay more attention on fruit,vegetables and snack foods
 than other type foods or factory can bind other food with snack or fruit, for example if you buy bread will get vegetable or snack promotion.
 
