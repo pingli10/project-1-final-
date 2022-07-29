@@ -15,7 +15,8 @@ Other numeric value have little or negtive effect with 800 Item_Outlet_Sales.
 The most outstanding valuable Catgorical factor is Item_Type which includes 16 types of foods. 
 In pie chart we can see fruit vegetables and snack foods take up great distribution. Other type foods have 
 its own distribution percentage. 
-![]images/[item_sales.pdf](https://github.com/pingli10/project-1-final-/files/9221721/item_sales.pdf)
+[item_sales.pdf](https://github.com/pingli10/project-1-final-/files/9221804/item_sales.pdf)
+
 
 
 
